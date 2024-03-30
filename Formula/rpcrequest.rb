@@ -1,5 +1,5 @@
 
-class RPCRequest < Formula
+class Rpcrequest < Formula
     desc "command-line utility for executing JSON-RPC"
     homepage "https://github.com/draganm/rpcrequest"
     url "https://github.com/draganm/rpcrequest/archive/refs/tags/v0.0.1.tar.gz"
